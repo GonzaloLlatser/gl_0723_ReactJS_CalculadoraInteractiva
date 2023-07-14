@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gl_0723_ReactJS_CalculadoraInteractiva/static/css/main.a44563e0.css",
+    "main.js": "/gl_0723_ReactJS_CalculadoraInteractiva/static/js/main.e8d1e035.js",
+    "static/media/freecodecamp-logo.png": "/gl_0723_ReactJS_CalculadoraInteractiva/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/gl_0723_ReactJS_CalculadoraInteractiva/index.html",
+    "main.a44563e0.css.map": "/gl_0723_ReactJS_CalculadoraInteractiva/static/css/main.a44563e0.css.map",
+    "main.e8d1e035.js.map": "/gl_0723_ReactJS_CalculadoraInteractiva/static/js/main.e8d1e035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44563e0.css",
+    "static/js/main.e8d1e035.js"
+  ]
+}
