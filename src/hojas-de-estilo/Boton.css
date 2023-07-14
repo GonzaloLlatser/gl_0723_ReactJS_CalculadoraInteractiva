@@ -14,3 +14,7 @@
     cursor: pointer;
     user-select: none;
 }
+
+.operador {
+    background-color: #00471b;
+}
