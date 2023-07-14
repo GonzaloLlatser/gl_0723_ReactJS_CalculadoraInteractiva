@@ -29,5 +29,11 @@
   background-color: #99c9ff;
   border-radius: 20px;
   border: solid white;
+}
 
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
