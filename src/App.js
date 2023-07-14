@@ -3,8 +3,20 @@ import freeCodeCampLogo from './imagenes/freecodecamp-logo.png'
 import Boton from './componentes/Boton';
 import Pantalla from './componentes/Pantalla';
 import BotonClear from './componentes/BotonClear';
+import { useState } from 'react';
 
 function App() {
+
+  const [input, setInput] = useState('');
+
+  const agregarInput = val => {
+    setInput(input + val);
+  };
+
+
+
+
+
   return (
     <div className='App'>
       <div class='freecodecamp-logo-contenedor'>
@@ -15,7 +27,7 @@ function App() {
       </div>
 
       <div className='contenedor-calculadora'>
-        <Pantalla />
+        <Pantalla input={input} />
         <div className='fila'>
           <Boton>1</Boton>
           <Boton>2</Boton>
